@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Siyovush Jafarov](https://up.htmlacademy.ru/javascript/19/user/489657).
-* Наставник: `Неизвестно`.
+* Наставник: [Артём Кочетков](https://htmlacademy.ru/profile/keksik).
 
 ---
 
